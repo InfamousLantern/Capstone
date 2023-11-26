@@ -1,4 +1,3 @@
 # Capstone
 
-##Editing file
-Testing
+Final project to demonstrate what has been learned.
